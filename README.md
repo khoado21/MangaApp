@@ -16,8 +16,13 @@
 |3    |   Thân Trung Hiếu	  |  19521513	  | Member
 |3    |   Nguyễn Tăng Hảo		|  19521479		 | Member
 
-## Status of repository
-npm firebase@9.6.11
+## Packages Used
+- [firebase v9](https://firebase.google.com/docs)
+- [react-navigation v6](https://reactnavigation.org/docs/getting-started)
+- [axios](https://github.com/axios/axios)
+- [cheerio](https://github.com/cheeriojs/cheerio)
+- [react-native-picker/picker](https://github.com/react-native-picker/picker)
+- [react-native-viewport-units](https://github.com/jmstout/react-native-viewport-units)
 ## Run Locally
 ```bash
   git clone https://github.com/hacco2801/MangaReactApp.git
@@ -40,3 +45,47 @@ Start the app
 ```bash
   npx react-native run-android
 ```
+
+
+### LogIn UI
+![Sign in UI](assets/screenshot/Login.png)
+
+### Register UI
+![Home/Feed Screen UI](assets/screenshot/Register.png)
+
+### Home UI
+![Sign in UI](assets/screenshot/HomeScreen.png)
+
+### MangaDetail UI
+![Sign in UI](assets/screenshot/MangaDetail.png)
+
+### ChapterManga UI
+![Sign in UI](assets/screenshot/ChapterRead.png)
+
+### SearchManga UI
+![Sign in UI](assets/screenshot/SearchScreen.png)
+
+### FilterGenres UI
+![Sign in UI](assets/screenshot/FilterGenres.png)
+
+### PickerManga UI
+![Sign in UI](assets/screenshot/SelectChapter.png)
+
+### MangaInGenres UI
+![Sign in UI](assets/screenshot/MangaInGenres.png)
+
+### Bookmark UI
+![Sign in UI](assets/screenshot/Bookmark.png)
+
+### Comment UI
+![Sign in UI](assets/screenshot/CommentManga.png)
+
+### Profile UI
+![Sign in UI](assets/screenshot/ChangePassword.png)
+
+### EditProfile UI
+![Sign in UI](assets/screenshot/EditProfile.png)
+
+
+### ChangePassword UI
+![Sign in UI](assets/screenshot/ChangePassword.png)
