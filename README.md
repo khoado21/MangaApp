@@ -5,7 +5,8 @@
 </p>
 
 # Introduction
-Ứng dụng đọc truyện tranh online 
+This repository is made to read mana from [Nettruyen website](http://www.nettruyenme.com/).
+Maybe the site will change domain name in future. You can change the link in folder apis to crawler it 
 
 ## Member
 
